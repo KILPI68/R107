@@ -3,3 +3,4 @@ somme = 0
 for i in range(N + 1):
     somme += i
 print("Somme des entiers de 0 à", N, ":", somme)
+

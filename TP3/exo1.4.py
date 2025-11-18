@@ -9,3 +9,4 @@ if somme == X:
     print("Le nombre N recherché est :", N - 1)
 else:
     print("Aucun N ne donne une somme exacte de", X)
+
