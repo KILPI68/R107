@@ -1,0 +1,1 @@
+n=int(input("Entrez la note et le coefficient correspondant:"))
